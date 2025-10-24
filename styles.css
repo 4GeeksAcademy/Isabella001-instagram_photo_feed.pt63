@@ -19,6 +19,11 @@ body {
     margin-left: 5px;
 }
 
+.user-info h5, .user-info p {
+    margin: 0;
+    font-size: 0;
+    font-weight: 0;
+}
 
 .post1 img{
     width: 100%;
